@@ -10,4 +10,8 @@ int[] b = { u, l, u, l, };
 int[] c = { u, l, u, u, };
 int[] d = { l, u, u, l, };
 
-
+//setup
+void setup() {
+  size(500, 500);
+  background(155);
+}
