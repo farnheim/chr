@@ -18,7 +18,7 @@ void setup() {
 
 //Functions
 void draw() {
-  for (int i = 0; i < 4; i=i+1) {
+  for (int i = 0; i < 4; i++) {
     noStroke();
     fill(a[i]);
     rect(rwidth*i, 0, rwidth, rheight);
