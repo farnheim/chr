@@ -16,7 +16,7 @@ void setup() {
   background(155);
 }
 
-//Functions
+//Functions 44444
 void draw() {
   for (int i = 0; i < 4; i++) {
     noStroke();
@@ -32,4 +32,5 @@ void draw() {
 }
 
 
-
+//void pixel()
+//void f2
